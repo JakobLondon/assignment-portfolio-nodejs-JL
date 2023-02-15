@@ -1,0 +1,32 @@
+body  {
+    background-color: #f8fdff;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    margin-top:4vw;
+    margin-bottom:6vw;
+}
+div {
+    width: 70vw;
+    line-height: 50px;
+}
+#top-box{
+    background-color: #fff6f3;
+    border-style: groove;
+    margin-top: 3vw;
+}
+#center-box {
+    position:absolute;
+    margin: auto;
+    background-color: #fff6f3;
+    border-style: groove;
+    margin-top: 3vw;
+    padding-bottom: 15vw;
+}
+#link-paragraph {
+    font-size: 30px;
+}
+ul {
+    font-size: 1.7vw;
+    line-height: 3vw;
+    padding-left: 10vw;
+}
